@@ -1,7 +1,7 @@
 # 40 Laravel Blade Directives and How to Create Custom 
 
-Conditional Directives
-1. @if, @elseif, @else, and @endif
+## Conditional Directives
+### 1. @if, @elseif, @else, and @endif
 
 Use these directives for conditional statements.
 
